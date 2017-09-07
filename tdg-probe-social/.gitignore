@@ -1,0 +1,59 @@
+/.idea
+/__pycache__
+/include
+/lib
+/lib64
+/Scripts
+/bin
+/tcl
+/share
+pip-selfcheck.json
+config.cfg
+/__pycache__
+/.idea
+pyvenv.cfg
+/tdg_social/__init__.pyc
+
+
+
+# Virtual environment folder #
+######################
+venv/
+venv2/
+
+
+# Logs #
+######################
+traveldglobe_error.log
+uwsgi.log
+db_dump/
+
+# distribution / packaging #
+######################
+/node_modules/
+development.cfg
+production.cfg
+config.cfg
+/.sass-cache/
+/dist/
+/static/css/admin_panel.*
+/static/js/admin_panel.js
+######## whitelisting #######
+!static/css/vendor
+!/static/js/app/angular.js
+
+
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+# text editor/IDE files #
+######################
+__pycache__/
+*.pyc
+.idea/
+.idea
+__pycache__/*.pyc
